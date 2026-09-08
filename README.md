@@ -1,6 +1,6 @@
 # E-Commerce Selenium Automation Framework
 
-A beginner-friendly web automation testing framework developed using Java, Selenium WebDriver, TestNG, Maven, and Page Object Model (POM).
+A web automation testing framework developed using Java, Selenium WebDriver, TestNG, Maven, and Page Object Model (POM).
 
 ## Tech Stack
 
